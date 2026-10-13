@@ -5,7 +5,7 @@ Já estagiei em P&D na Take and Go, com visão computacional e automação em Py
 
 ### 🚀 Projetos
 
-**🔧 [PiBarber](https://pibarber.app)**: sistema de gestão para barbearias, **em uso por <<<UMA ou DUAS>>> barbearia(s) real(is)**
+**🔧 [PiBarber](https://pibarber.app)**: sistema de gestão para barbearias, **em uso por 2 barbearias reais**
 - Três perfis de acesso (dono, assistente e cliente), com permissões aplicadas no próprio banco de dados (Row Level Security)
 - Restrição no PostgreSQL que impede agendamentos sobrepostos, mesmo com requisições simultâneas
 - Agenda, caixa, comissões, relatórios e e-mails automáticos
