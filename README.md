@@ -20,4 +20,4 @@ PostgreSQL · SQL · TypeScript · Node.js · Express · Supabase · Python · G
 📚 **Estudando:** Java e Spring Boot
 
 ### 📫 Contato
-🎯 Em busca de estágio em desenvolvimento · [LinkedIn](https://www.linkedin.com/in/guilherme-pazoti) · <<<E-MAIL ESCOLHIDO>>>
+🎯 Em busca de estágio em desenvolvimento · [LinkedIn](https://www.linkedin.com/in/guilherme-pazoti) · guilhermepazoti.x@gmail.com
