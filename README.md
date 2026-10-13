@@ -5,18 +5,19 @@ Já estagiei em P&D na Take and Go, com visão computacional e automação em Py
 
 ### 🚀 Projetos
 
-**🔧 [PiBarber](https://pibarber.app)**: sistema de gestão para barbearias, **em uso por uma barbearia real**
-- Três perfis de acesso (dono, assistente e cliente), com permissões aplicadas no próprio banco de dados
+**🔧 [PiBarber](https://pibarber.app)**: sistema de gestão para barbearias, **em uso por <<<UMA ou DUAS>>> barbearia(s) real(is)**
+- Três perfis de acesso (dono, assistente e cliente), com permissões aplicadas no próprio banco de dados (Row Level Security)
 - Restrição no PostgreSQL que impede agendamentos sobrepostos, mesmo com requisições simultâneas
 - Agenda, caixa, comissões, relatórios e e-mails automáticos
 
-**🏥 [SaudeCode](https://saudecode.vercel.app)**: prontuário por QR Code para pessoas em situação de rua
-- Alertas gerados a partir do histórico e registro de cada acesso ao prontuário
+**✅ [TaskFlow](https://github.com/DEVpazoti/taskflow)**: API REST de gerenciamento de tarefas, em desenvolvimento
+- Construída do zero em Node.js, Express e TypeScript, com build para produção e código padronizado com Prettier
+- Próximos passos: banco PostgreSQL com Prisma, login com JWT e front-end em React
 
 ### 🛠️ Tecnologias
-PostgreSQL · TypeScript · Supabase · Python · SQL · Git · Vercel
+PostgreSQL · SQL · TypeScript · Node.js · Express · Supabase · Python · Git · Vercel
 
 📚 **Estudando:** Java e Spring Boot
 
 ### 📫 Contato
-🎯 Em busca de estágio em desenvolvimento · [LinkedIn](https://www.linkedin.com/in/guilherme-pazoti) · guilherme.pzt.0@gmail.com
+🎯 Em busca de estágio em desenvolvimento · [LinkedIn](https://www.linkedin.com/in/guilherme-pazoti) · <<<E-MAIL ESCOLHIDO>>>
